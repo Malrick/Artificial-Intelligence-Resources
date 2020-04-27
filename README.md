@@ -18,23 +18,7 @@ A summary of useful resources in order to learn about AI
 
 ## Learning
 
-### Courses
-
-#### [Coursera](https://www.coursera.org/courses?query=artificial%20intelligence)
-
-An online learning platform having many courses to begin with. 	
-
-#### [Kaggle Learn](https://www.kaggle.com/learn/overview)
-
-Kaggle is coming with a list of courses allowing people to develop their skills in data science.  
-
-#### [Fast.ai Courses](https://course.fast.ai/)
-
-
-
-#### [Lex Fridman’s Deep Learning series](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
-
-List of videos which a part of MIT Deep Learning Series.
+### [Courses](courses.md)
 
 ### Books
 
@@ -134,7 +118,7 @@ It might be interesting to realize a list of famous AI people ! (Yann Le Cun, An
 
 ## Technical ressources
 
-### [TensorFlow](https://www.tensorflow.org/)
+#### [TensorFlow](https://www.tensorflow.org/)
 
 Machine Learning framework 
 
