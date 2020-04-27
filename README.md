@@ -1,7 +1,20 @@
 # Artificial-Intelligence-Resources
 A summary of useful resources in order to learn about AI
 
-
+1. Learning (#learning)
+	1. Courses (#courses)
+	1. Books (#books)
+	1. Research papers (#research-papers)
+	1. Conferences (#conferences)
+	1. Tutorials (#tutorials)
+	1. Articles (#articles)
+1. Projects (#projects)
+	1. Youtube Videos (#youtube-videos)
+1. Organizations (#organizations)
+	1. Research organizations (#research-organizations)
+	1. Artificial Intelligence based companies (#artificial-intelligence-based-companies)
+1. People (#people)
+1. Technical resources (#technical-resources)
 
 ## Learning
 
@@ -37,7 +50,7 @@ https://d2l.ai/d2l-en.pdf
 
 **EfficientDet: Scalable and Efficient Object Detection -** https://arxiv.org/pdf/1911.09070.pdf?fbclid=IwAR3g6xNEpTQmkS3A9YwagZa5B_01DCYl2GoBR7rKDtuFRVtUiyJ_lbMe7W4
 
-## Conferences
+### Conferences
 
 **The Role of Multi-Agent Learning in Artificial Intelligence Research at DeepMind -** https://www.youtube.com/watch?v=CvL-KV3IBcM
 
@@ -59,6 +72,8 @@ Some beginner-friendly computer vision projects.
 **Jonathan Hui’s articles on Deep Learning -** https://medium.com/@jonathan_hui/index-page-for-my-articles-in-deep-learning-19821810a14
 
 A wide range of topics are covered (including : GAN, Deepfake, Object detection, self driving cars…)
+
+
 
 
 
