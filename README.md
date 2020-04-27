@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Resources
+# Artificial Intelligence Resources
 The goal of this repository is to help people finding the resources that they need in order to learn about AI, or enhance their culture in this field. 
 
 
