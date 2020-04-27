@@ -1,26 +1,23 @@
 # Artificial-Intelligence-Resources
-A summary of useful resources in order to learn about AI
+The goal of this repository is to help people finding the resources that they need in order to learn about AI, or enhance their culture in this field. 
 
-## Learning
 
-### [Courses](courses.md)
+## [Learning](learning.md)
 
-### [Books](books.md)
-
-### [Research papers](research-papers.md)
-
-### [Conferences](conferences.md)
-
-### [Tutorials](tutorials.md)
-
-### [Articles](articles.md)
+This set of resources allows you to enhance your technical knowledge about Artificial Intelligence. 
 
 ## [Projects](projects.md)
 
+Here, you will find some advices to get your projects started, and some non-technical project reviews. 
+
 ## [Organizations](organizations.md)
+
+Here, you will learn about different companies / organizations of AI. 
 
 ## [People](people.md)
 
-## [Technical ressources](technical-resources.md)
+This article will give you a general overview of the important personalities of AI.
 
+## [Technical resources](technical-resources.md)
 
+This is a list of technical resources useful to work in AI. 
