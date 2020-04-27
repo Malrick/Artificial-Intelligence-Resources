@@ -1,20 +1,20 @@
 # Artificial-Intelligence-Resources
 A summary of useful resources in order to learn about AI
 
-1. Learning (#learning)
-	1. Courses (#courses)
-	1. Books (#books)
-	1. Research papers (#research-papers)
-	1. Conferences (#conferences)
-	1. Tutorials (#tutorials)
-	1. Articles (#articles)
-1. Projects (#projects)
-	1. Youtube Videos (#youtube-videos)
-1. Organizations (#organizations)
-	1. Research organizations (#research-organizations)
-	1. Artificial Intelligence based companies (#artificial-intelligence-based-companies)
-1. People (#people)
-1. Technical resources (#technical-resources)
+1. [Learning](#learning)
+	1. [Courses](#courses)
+	1. [Books](#books)
+	1. [Research papers](#research-papers)
+	1. [Conferences](#conferences)
+	1. [Tutorials](#tutorials)
+	1. [Articles](#articles)
+1. [Projects](#projects)
+	1. [Youtube Videos](#youtube-videos)
+1. [Organizations](#organizations)
+	1. [Research organizations](#research-organizations)
+	1. [Artificial Intelligence based companies](#artificial-intelligence-based-companies)
+1. [People](#people)
+1. [Technical resources](#technical-resources)
 
 ## Learning
 
