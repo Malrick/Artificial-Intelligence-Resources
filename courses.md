@@ -1,18 +1,20 @@
 # Courses 
 
+![Course picture](https://cdn.pixabay.com/photo/2018/05/19/00/53/online-3412473_960_720.jpg)
+
 On this page, you can find different courses where you can learn about AI. 
 
 ## Useful websites
 
-#### [Coursera](https://www.coursera.org/courses?query=artificial%20intelligence)
+### [Coursera](https://www.coursera.org/courses?query=artificial%20intelligence)
 
 An online learning platform having many courses to begin with. 	
 
-#### [Kaggle Learn](https://www.kaggle.com/learn/overview)
+### [Kaggle Learn](https://www.kaggle.com/learn/overview)
 
 Kaggle is coming with a list of courses allowing people to develop their skills in data science.  
 
-#### [Fast.ai Courses](https://course.fast.ai/)
+### [Fast.ai Courses](https://course.fast.ai/)
 
 ## Machine Learning
 
