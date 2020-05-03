@@ -26,7 +26,7 @@ Books are a marvellous way to learn more about AI. Here, you will find a list of
 
 ## Reinforcement Learning 
 
-### [Reinforcement learning : An Introduction by Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+### [Reinforcement learning : An Introduction by Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/RLbook2020.pdf)
 
 ### [Hands-On Intelligent Agents With OpenAI Gym by Praveen Palanisamy](https://drive.google.com/file/d/1s9dJjnKuZJGdJ2svLT5xUDGqFHYp7-Jl/view)
 
