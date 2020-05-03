@@ -26,13 +26,15 @@ List of videos which a part of MIT Deep Learning Series.
 
 ## Computer Vision
 
-### [Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&fbclid=IwAR2Pnc0QrmOnpukExYUl0Ke6yfM-eoouo_xqPZgSSZRwti2Tp7c3lp-xEG0)
+### [Stanford class : Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&fbclid=IwAR2Pnc0QrmOnpukExYUl0Ke6yfM-eoouo_xqPZgSSZRwti2Tp7c3lp-xEG0)
 
 ## Natural Language Processing 
 
-### [Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+### [Stanford class : Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 ## Reinforcement Learning 
+
+### [Stanford class : Reinforcement Learning | Winter 2019](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 ## Robotics 
 

@@ -2,6 +2,8 @@
 
 Books are a marvellous way to learn more about AI. Here, you will find a list of major books covering different topics.
 
+Many books are available online, if you are looking for a specific book you may find it [here](https://b-ok.cc/s/)
+
 ## Python 
 
 ### [Python Artificial Intelligence Projects for Beginners by Joshua Eckroth](https://drive.google.com/file/d/1t_64_H_ll9qwoZfSimw3Iyagnmnhsu19/view)
