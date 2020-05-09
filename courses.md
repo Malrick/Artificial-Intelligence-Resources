@@ -36,6 +36,8 @@ List of videos which a part of MIT Deep Learning Series.
 
 ### [Stanford class : Reinforcement Learning | Winter 2019](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
+### [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
+
 ## Robotics 
 
 
